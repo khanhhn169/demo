@@ -2,6 +2,7 @@ html {
     height: 100%;
 }
 
+
 body {
     background-color: #2F3035;
     background-image: url(images/background-adare-restaurant.jpg);
@@ -9,6 +10,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
+
 
 .container {
     margin-left: auto;
@@ -76,4 +78,3 @@ footer p {
 .maps {
     padding-bottom: 100px;
 }
-
